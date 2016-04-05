@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>buzzer_off.png</file>
+        <file>buzzer_on.png</file>
+    </qresource>
+</RCC>
