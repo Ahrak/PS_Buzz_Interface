@@ -1,7 +1,7 @@
 This project aims to provide an interface for the ps buzz controllers for PC/Windows.
 I use the controllers to play you don't know jack.
 
-![alt tag](http://url/to/img.png)
+![screenshot1](https://github.com/Ahrak/PS_Buzz_Interface/blob/master/screenshots/screen1.png?raw=true)
 
 Rependencies:
 ---------------
